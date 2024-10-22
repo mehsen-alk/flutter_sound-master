@@ -1,0 +1,5 @@
+.DS_Store
+doc/_site/
+*.tgz
+extract/
+.DS_Store
